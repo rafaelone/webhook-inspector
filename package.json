@@ -1,0 +1,7 @@
+{
+  "name": "fullstack-ai",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "packageManager": "pnpm@10.15.0"
+}
